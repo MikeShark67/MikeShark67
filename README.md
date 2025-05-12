@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My Repository 
+
+## Started
+The repository is there for the learners of web developers . is a web delivery model gotten via the internet to help solving various problems
+
+##  Why explore on technology
+It is more advanced and easy to access.Some merits are like:
+1.Easy accessible via the internet
+2.Affordable:it is cheap with no subscription fee
+3. we
