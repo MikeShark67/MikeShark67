@@ -23,4 +23,7 @@ The repository is there for the learners of web developers . is a web delivery m
 It is more advanced and easy to access.Some merits are like:
 1.Easy accessible via the internet
 2.Affordable:it is cheap with no subscription fee
-3. we
+
+
+### Developing Technology
+Knowing how to use VS
