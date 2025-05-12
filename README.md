@@ -29,3 +29,7 @@ Fav player William Saliba
 
 #### Social Media 
 Find me on social media @mikeshorn_06-IG and X-Michael Shorn
+
+
+#### Rugby
+Passionate on playing rugby.Supporter of KCB Club 
