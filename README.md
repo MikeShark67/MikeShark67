@@ -25,11 +25,18 @@ World has now changed and needs society that is more advanced Technologically
 ### Football 
 Love to watch the champions league and the Premier league
 Favourite team Arsenal 
-Fav player William Saliba 
+Fav player William Saliba
+|Teams     |MP |W  |L  |D  | Points|
+|----------|---|---|---|---|-------|
+|Livepool  |36 |25 |3  | 8 |83     |
+|Arsenal   |36 |18 |4  |14 |68     |
+|Newcastle |36 |20 |10 | 6 |66     |
 
 #### Social Media 
 Find me on social media @mikeshorn_06-IG and X-Michael Shorn
 
 
 #### Rugby
-Passionate on playing rugby.Supporter of KCB Club 
+Passionate on playing rugby.Supporter of KCB Club
+
+|Teams|
