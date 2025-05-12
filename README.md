@@ -33,7 +33,7 @@ Fav player William Saliba
 |Newcastle |36 |20 |10 | 6 |66     |
 
 #### Social Media 
-Find me on social media @mikeshorn_06-IG and X-Michael Shorn
+Find me on social media @mikeshorn_06-IG and X-Michael Shorn [mikeshorn_06] 
 
 
 #### Rugby
