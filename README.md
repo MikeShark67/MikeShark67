@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 # My Repository 
 
 ## Started
-The repository is there for the learners of web developers . is a web delivery model gotten via the internet to help solving various problems
+The repository is there for the learners of web developers Football Lovers.  is a web delivery model gotten via the internet to help solving various problems
 
 ##  Why explore on technology
-It is more advanced and easy to access.Some merits are like:
-1.Easy accessible via the internet
-2.Affordable:it is cheap with no subscription fee
+World has now changed and needs society that is more advanced Technologically 
 
+### Football 
+Love to watch the champions league and the Premier league
+Favourite team Arsenal 
+Fav player William Saliba 
 
-### Developing Technology
-Knowing how to use VS
+#### Social Media 
+Find me on social media @mikeshorn_06-IG and X-Michael Shorn
