@@ -38,7 +38,6 @@ Find me on social media @mikeshorn_06-IG and X-Michael Shorn [mikeshorn_06]
 
 #### Rugby
 Passionate on playing rugby.
-:rugby:
 Supporter of KCB Club.
 
 
